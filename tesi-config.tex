@@ -103,7 +103,7 @@
     %pdfpagelabels,
     %draft,	% = elimina tutti i link (utile per stampe in bianco e nero)
     colorlinks=true,
-    linktocpage=true,
+    linktocpage=false,
     pdfstartpage=1,
     pdfstartview=,
     % decommenta la riga seguente per avere link in nero (per esempio per la stampa in bianco e nero)
@@ -121,7 +121,7 @@
     %nesting=true,
     %frenchlinks,
     urlcolor=webbrown,
-    linkcolor=RoyalBlue,
+    linkcolor=black,
     citecolor=webgreen,
     %pagecolor=RoyalBlue,
     %urlcolor=Black, linkcolor=Black, citecolor=Black, %pagecolor=Black,
@@ -227,7 +227,7 @@
 % #2: Nome
 \newenvironment{usecase}[2]{
     \renewcommand{\theusecasecounter}{\usecasename #1}  % this is where the display of 
-                                                        % the counter is overwritten/modified
+                       % the counter is overwritten/modified
     \refstepcounter{usecasecounter}             % increment counter
     \vspace{10pt}
     \par \noindent                              % start new paragraph
@@ -252,7 +252,7 @@
 
 \newenvironment{namespacedesc}{
     \vspace{10pt}
-    \par \noindent                              % start new paragraph
+    \par \noindent          % start new paragraph
     \begin{description} 
 }{
     \end{description}

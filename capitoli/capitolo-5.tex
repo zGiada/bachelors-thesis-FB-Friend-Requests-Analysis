@@ -4,42 +4,54 @@
 
 %**************************************************************
 \chapter{Progettazione e codifica}
-\label{cap:progettazione-codifica}
+\label{cap:progettazione}
 %**************************************************************
 
 \intro{Breve introduzione al capitolo}\\
-
 %**************************************************************
-\section{Tecnologie e strumenti}
-\label{sec:tecnologie-strumenti}
 
-Di seguito viene data una panoramica delle tecnologie e strumenti utilizzati.
+\section{Definition of the project's line guide and the chosen parameters}
+AGGIUNGERE CONTENT
+\\The attacker knows that it is not easy to be accepted by his victim and, for this reason, he wants to understand what choices he must take to create the best profile possible to be accepted without too much delay by the victim. Therefore, the parameters must be defined base on the victim, to be accepted with greater possibility.
+\\Thanks to the study of some specific papers mentioned above and thinking about how much to deepen the search for the best profile, the chosen parameters are now defined and discussed.
+\subsection{1st parameter: gender}
+Gender is an almost decisive factor. Many papers of those cited report that a friend request from a female user profile is accepted easier than a friend request from a man user profile, regardless of the gender of the profile that receives it.
+\subsubsection*{Classes}
+The parameter \texttt{gender} $ \in \{$\texttt{female, male}$\}$, where: 
+\begin{itemize}
+	\item \texttt{female/F}, if the victim's profile user declares to be a \textit{woman};
+	\item \texttt{male/M}, if the victim's profile user declares to be a \textit{man}.
+\end{itemize}
+\subsection{2nd parameter: image profile}
+The profile picture is the first thing, along with the name, a user sees when they have a friend request. As reported in some above-mentioned papers, the profile image already serves to give an idea of the person who is asking for friendship, because it shows some details that do not need to be checked (such as gender or an indicative age range).
+A profile with a hidden or fake image (eg. a landscape) is more mysterious in the eyes of a user who receives the friend request, beacuse the real person behind this profile is not clearly identifiable.\\
+Therefore, the main idea is to verify the presence of at least one person in the profile picture and classify the user profiles based on the outcome of this verification.\\
+Facebook uses a technology that allows recognizing the profile image's content (faces, objects, ...), and automatically creating a description that will be enclosed in the \texttt{alt} tag. 
+The presence of one or more people (and occasionally other details about the panorama and/or some objects present) is always specified within the \texttt{alt} tag. On the other hand, if the image is fictional (cartoons, drawings, etc.) or is an image without a person (eg. landscapes), the \texttt{alt} tag contains "\texttt{No description of the photo available}".\\
+This technology has been exploited to classify each victim's profile picture.
+\subsubsection*{Classes}
+The parameter \texttt{real\_img} $ \in \{$\texttt{true,false}$\}$, where: 
+\begin{itemize}
+	\item \texttt{true}, if in \texttt{alt} tag reported the presence of one or more people;
+	\item \texttt{false}, if in \texttt{alt} tag not reported the presence of one or more people;
+\end{itemize}
+\subsection{3rd parameter: age} 
+Age is a very relevant factor. From the literature, it appears to be one of the first factors that a user who receives a friendship goes to check the profile from which the friend request started, if the age is not deducible from the image profile. 
+The more similar age, the more likely it is that the friend request will be accepted.\\
+A person who wants to register on Facebook, must declare a real birth date (and must be at least 13 years old) and, once the profile has been created, can choose whether to make the date public or not. Some profiles publish only the month and day, other profiles only the year, others the complete date, others hide everything.\\To classify profile user's age, the date of birth that it reports will be taken, and the age will be calculated based on the current year, so as to be able to assign to this profile its membership class.
+\subsubsection*{Classes}
+Age is classified into 3 ranges, so the parameter \texttt{age\_range} $ \in \{2,3,4\}$, where: 
+\begin{itemize}
+	\item \texttt{2}, if the age victim's profile user is between 18 and 50 years;
+	\item \texttt{3}, if the age victim's profile user is greater than 50 years;
+	\item \texttt{4}, if the age victim's profile user is hidden;
+\end{itemize}
 
-\subsection*{Tecnologia 1}
-Descrizione Tecnologia 1.
+\subsection{Consideration}
+Other parameters that could be interesting to study are "working occupation" and "current town". 
+In particular, often the friend request is dictated by work/study interests, so checking the job occupation that the profile declares to employ. Same for the current town: maybe a profile is more secure to accept friend requests only for those profiles that indicate a current town like its o near its, or is this indifferent?
 
-\subsection*{Tecnologia 2}
-Descrizione Tecnologia 2
+%Dopo una prima fase di raccolta dati, si è potuto notare come la maggior parte degli utenti su Facebook non inserisca molti dati nel proprio profilo, rendendo il dataset di dati raccolti immediatamente molto sbilanciato. Più precisamente pochi utenti inseriscono la propria età, la città di residenza e un’occupazione (molte volte è presente ma evidentemente fasulla). A questo, si è aggiunto anche il fatto che gli utenti minorenni che mettono in chiaro la propria età sono molto pochi (circa 2 su più 1000 profili totali raccolti). In molti casi l’età è intuibile solo osservando l’immagine del profilo, ma questo non è un criterio di valutazione sulla quale poter ragionare.
+%A questo punto, per questo studio, si è deciso di rimuovere i minorenni (quindi age_value ∈ {2, 3, 4}) edi rimuovere i parametri hometown_value e occupation_value.
 
-%**************************************************************
-\section{Ciclo di vita del software}
-\label{sec:ciclo-vita-software}
-
-%**************************************************************
-\section{Progettazione}
-\label{sec:progettazione}
-
-\subsubsection{Namespace 1} %**************************
-Descrizione namespace 1.
-
-\begin{namespacedesc}
-    \classdesc{Classe 1}{Descrizione classe 1}
-    \classdesc{Classe 2}{Descrizione classe 2}
-\end{namespacedesc}
-
-
-%**************************************************************
-\section{Design Pattern utilizzati}
-
-%**************************************************************
-\section{Codifica}
+%In ogni caso si vuole sottolineare come non sono stati fatti aggiuntivi controlli sulla coerenza dei dati, in quanto si presuppone che le persone che pubblicano le proprie informazioni su Facebook siano sincere e i dati siano completi. L'unico sistema di check c'è sul tool di categorizzazione del profilo raccolto (vedi qui)

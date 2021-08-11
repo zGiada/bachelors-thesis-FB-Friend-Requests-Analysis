@@ -3,11 +3,53 @@
 % !TEX root = ../tesi.tex
 
 %**************************************************************
-\chapter{Processi e metodologie}
-\label{cap:processi-metodologie}
+\chapter{Description of the internship}
+\label{cap:descrizione-stage}
 %**************************************************************
 
-\intro{Brevissima introduzione al capitolo}\\
+In this chapter, there will explain the internship: the planning of work, the expected products, the objectives and methods of carrying out the activities\\
 
 %**************************************************************
-\section{Processo sviluppo prodotto}
+\section{A brief introduction to the project}
+The general idea is studying the phenomenon of friend requests on Facebook, and how a profile with specific characteristics is accepted more easily by another profile with certain characteristics. \\
+These characteristics, chosen after in-depth research in the literature, are defined by parameters (e.g. age, occupation, profile picture), which are divided into classes (e.g. age's class are defined by ranges, such as "age under 18", "age between 18 and 50 years old" or "over 50 years old").
+\\Therefore, there will be developed specific tools capable to create a fake attacker profile with precise parameters and then send a friend request from this profile to more than one victim profile. \\The objective is to create a decided number of attacker profiles, based on the various combination of the parameters that we chose to analyze; then, all of these profiles must ask a friend request to a specific number of victim profiles which are categorized into configuration based on the various combination of the parameters that we have decided to analyze. In this way, we are sure that every type of attacker will ask at least one friend request to every type of victim. \\Consequently, an amount quantity of data will be collect and analyzed, in such a way as to be able to define a valid \textbf{model of acceptance}.
+\\This is necessary to satisfy the concluding goal: define a functioning prototype for a final tool, which, after entering the URL of the victim, will take care of determining the characteristics that the attacker should include in his profile to be more likely accepted by the victim.
+%**************************************************************
+\section{Expected products}
+The student had to keep track of the work done and the progress made against the expected progress day by day.\\
+At the end of the internship period, the student had to produce a written report that keeps track of the work done and describes the results obtained, in particular:
+\begin{enumerate}
+	\item what has been learned from the study and research in literature; 
+	\item the study, development, and execution of the tool for automating the search for a profile with certain characteristics;
+	\item the study, development, and execution of the tool for the automation of the creation of an attacking profile with certain characteristics;
+	\item the study, development, and execution of the tool for the automation of friend requests from a profile with certain characteristics to another profile with certain characteristics;	
+	\item consecutive data collection; 
+	\item a preliminary analysis of the collected data, aided by some tools developed ad hoc; 
+	\item a prototype of a model of acceptance.
+\end{enumerate}
+%**************************************************************
+\section{Objectives}
+Now will be listed the objectives to achieve.
+\begin{itemize}
+\item implementation of the automatic search tool for people, given certain characteristics as input;
+\item implementation of creation attacker profile tool, giving as input the characteristics that it must have;
+\item implementation of the friend request tool from a profile to another profile, giving the necessary data as input;
+\item preliminary analysis on previously collected data.
+\end{itemize}
+
+\subsection{Learning objectives expected}
+During this internship the student will have the opportunity to deepen and put his knowledge into practice, in particular:
+\begin{itemize}
+	\item in the field of the automated management of browsers through the use of the Selenium framework;
+	\item Python programming;
+	\item tools and methodologies for data collection; 
+	\item statistical techniques and tools for the study and analysis of the collected data.
+\end{itemize}
+%**************************************************************
+%\section{Methods of carrying out activities}
+%Most of the internship activity was carried out in smart working, due to the health emergency due to Covid-19.
+%However, the contacts with the proposing tutor took place weekly with an interview, verifying the progress and any discrepancies with the work plan, to refine the objectives and update the work plan.
+%The student was required to work 8 hours a day from Monday to Friday, approximately from 8.30 to 12.30 and from 14.30 to 18.30, for a total of 320 hours.
+%**************************************************************
+%\section{Planning of the activities}

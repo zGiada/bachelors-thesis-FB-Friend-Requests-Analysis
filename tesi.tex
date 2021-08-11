@@ -14,7 +14,7 @@
 \begin{filecontents*}{\jobname.xmpdata}
   \Title{Document’s title}
   \Author{Author’s name}
-  \Language{it-IT}
+  \Language{it-IT}{\tiny {\tiny }}
   \Subject{The abstract, or short description.}
   \Keywords{keyword1\sep keyword2\sep keyword3}
 \end{filecontents*}
@@ -91,11 +91,12 @@
 \usepackage{ltxtable}                   % tabelle su più pagine e adattabili in larghezza
 
 \usepackage[toc, acronym]{glossaries}   % glossario
-                                        % per includerlo nel documento bisogna:
-                                        % 1. compilare una prima volta tesi.tex;
-                                        % 2. eseguire: makeindex -s tesi.ist -t tesi.glg -o tesi.gls tesi.glo
-                                        % 3. eseguire: makeindex -s tesi.ist -t tesi.alg -o tesi.acr tesi.acn
-                                        % 4. compilare due volte tesi.tex.
+                                        
+% per includerlo nel documento bisogna:
+% 1. compilare una prima volta tesi.tex;
+% 2. eseguire: makeindex -s tesi.ist -t tesi.glg -o tesi.gls tesi.glo
+% 3. eseguire: makeindex -s tesi.ist -t tesi.alg -o tesi.acr tesi.acn
+% 4. compilare due volte tesi.tex.
 
 \usepackage[backend=biber,style=verbose-ibid,hyperref,backref]{biblatex}
 % eccellente pacchetto per la bibliografia; 
@@ -125,6 +126,14 @@
 % Materiale principale
 %**************************************************************
 \mainmatter
+% INTRO
+% BACKGROUND
+% TOOL
+% RACCOLTA DATI
+% ESPERIMENTI
+% DISCUSSIONI
+% FUTURE WORKS
+% CONCLUSIONI
 \input{capitoli/capitolo-1}             % Introduzione
 \input{capitoli/capitolo-2}             % Processi
 \input{capitoli/capitolo-3}             % Kick-Off

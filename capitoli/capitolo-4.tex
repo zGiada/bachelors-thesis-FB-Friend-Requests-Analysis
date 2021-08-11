@@ -3,82 +3,57 @@
 % !TEX root = ../tesi.tex
 
 %**************************************************************
-\chapter{Analisi dei requisiti}
-\label{cap:analisi-requisiti}
+% !TEX encoding = UTF-8
+% !TEX TS-program = pdflatex
+% !TEX root = ../tesi.tex
+
 %**************************************************************
-
-\intro{Breve introduzione al capitolo}\\
-
-\section{Casi d'uso}
-
-Per lo studio dei casi di utilizzo del prodotto sono stati creati dei diagrammi.
-I diagrammi dei casi d'uso (in inglese \emph{Use Case Diagram}) sono diagrammi di tipo \gls{uml} dedicati alla descrizione delle funzioni o servizi offerti da un sistema, così come sono percepiti e utilizzati dagli attori che interagiscono col sistema stesso.
-Essendo il progetto finalizzato alla creazione di un tool per l'automazione di un processo, le interazioni da parte dell'utilizzatore devono essere ovviamente ridotte allo stretto necessario. Per questo motivo i diagrammi d'uso risultano semplici e in numero ridotto.
-
-\begin{figure}[!h] 
-    \centering 
-    \includegraphics[width=0.9\columnwidth]{usecase/scenario-principale} 
-    \caption{Use Case - UC0: Scenario principale}
-\end{figure}
-
-\begin{usecase}{0}{Scenario principale}
-\usecaseactors{Sviluppatore applicativi}
-\usecasepre{Lo sviluppatore è entrato nel plug-in di simulazione all'interno dell'IDE}
-\usecasedesc{La finestra di simulazione mette a disposizione i comandi per configurare, registrare o eseguire un test}
-\usecasepost{Il sistema è pronto per permettere una nuova interazione}
-\label{uc:scenario-principale}
-\end{usecase}
-
-\section{Tracciamento dei requisiti}
-
-Da un'attenta analisi dei requisiti e degli use case effettuata sul progetto è stata stilata la tabella che traccia i requisiti in rapporto agli use case.\\
-Sono stati individuati diversi tipi di requisiti e si è quindi fatto utilizzo di un codice identificativo per distinguerli.\\
-Il codice dei requisiti è così strutturato R(F/Q/V)(N/D/O) dove:
+\chapter{Literature search}
+\label{cap:introduzione}
+%**************************************************************
+The research in the literature and the study of founded projects was useful for the knowledge of the possible areas and above all, it was necessary to verify that no other project had as a focal point the attacker who wants to hit a specific victim and must make sure to be accepted as a possible friend. \\
+Furthermore, these projects were useful for delineating the parameters from which to structure the attackers' and victims' profiles.
+\section{List of papers}
+Many papers are dealing with this social network, each of which opened to the perspective of many other projects. The most important and useful papers found in the great research phase are now shown and discussed:
 \begin{enumerate}
-	\item[R =] requisito
-    \item[F =] funzionale
-    \item[Q =] qualitativo
-    \item[V =] di vincolo
-    \item[N =] obbligatorio (necessario)
-    \item[D =] desiderabile
-    \item[Z =] opzionale
+	\item 
+	\textsc{INVESTIGATIVE TECHNIQUES IN THE DIGITAL AGE - CYBERCRIME AND CRIMINAL PROFILING}
+	\\ In this paper, it is made clear how cyberspace offers the possibility of carrying out illicit acts with the perception of going unpunished, showing the new various types of crimes such as cyberstalking, cyberbullying, online sexual offenses, etc.
+	\\Cyberspace has allowed the criminal to evolve the techniques and approaches to the victim, so much so that it is not always immediately obvious that the intentions of one account towards another can be malicious.
+	\\This new world, moreover, places investigators to consider the crime scene differently: a crime born of a victim's approach on the web places the computer itself as a victim or as a witness, but above all as a crime scene and therefore as a space to be analyzed. that could help (or penalize?) the investigators. \\
+	LINK: \href{https://oapub.org/soc/index.php/EJSSS/article/view/821/1403}{https://oapub.org/soc/index.php/EJSSS/article/view/821/1403}
+	
+	\item 
+	\textsc{OSNs AS SUPPORTING EVIDENCE: A DIGITAL FORENSIC INVESTIGATION MODEL AND ITS APPLICATION DESIGN}
+	\\ This paper states that digital crime investigations are performed without adequate guidelines, as there isn't a consistent standard and model, only a set of procedures and tools, and above all, there is no model built specifically for social networks. This paper, therefore, proposes a standard survey model to be used for social networks, incorporating existing traditional frameworks and strategies.. 
+	\\ LINK: \href{https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=6125728}{https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=6125728}
+	
+	\item
+	\textsc{INTEGRO: LEVERAGING VICTIM PREDICTION FOR ROBUST FAKE ACCOUNT DETECTION IN OSNs}
+	\\ The \textit{Integro} project is a scalable defense system that helps OSNs detect fake accounts using a meaningful user classification scheme. This paper, in addition to providing an explanation of how \textit{Integro} works, provides interesting explanations on the behaviors that differentiate the attacker and the victim.
+	\\ LINK: \href{https://www.sciencedirect.com/science/article/pii/S0167404816300633}{https://www.sciencedirect.com/science/article/pii/S0167404816300633}
+	
+	\item
+	\textsc{SOCIALSPY: BROWSING (SUPPOSEDLY) HIDDEN INFORMATION IN OSNs}
+	\\ This paper highlights how current privacy settings in social networks are not as effective as users might think, focusing on Facebook. It shows how easy it is to retrieve information that a user thinks they have set as private.
+	\\ LINK: \href{https://arxiv.org/pdf/1406.3216.pdf}{https://arxiv.org/pdf/1406.3216.pdf}
+	
+	\item 
+	\textsc{EVALUATION OF THE LIKELIHOOD OF FRIEND REQUEST ACCEPTANCE IN OSNs}
+	\\ This paper explains how OSN users often run into breaches or security issues due to rash acceptance of the friend request, which can lead to the disclosure of personal information and vulnerability to an attack. The document proposes a method to evaluate the probability of becoming a friend having defined a model data: a future friend and incoming friend requests are evaluated with reference to this model which takes into account the attributes (such as common interests) and behavioral properties (such as seat frequency).
+	\\ LINK: \href{https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8731968}{https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8731968}
+	
+	\item
+	\textsc{CAN FRIENDS BE TRUSTED? EXPLORING PRIVACY IN OSNs}
+	\\ This article presents a case study describing the privacy and trust inside a small population of online social network users. Taking Facebook as a reference, the frequency with which people are willing to disclose personal data to an unknown online user was determined. While most of the users sampled did not share sensitive information when requested by the stranger, it turned out that several users were willing to divulge personal details to a stranger if there is a mutual friend.
+	\\ LINK: \href{https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=5231850}{https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=5231850}		
+	
+	\item 
+	\textsc{TO BEFRIEND OR NOT: A MODEL OF FRIEND REQUEST ACCEPTANCE}
+	\\ This paper was the most useful, as it provided a valid model for the choice of parameters: it explains how a friend request acceptance model was developed that explains how various factors influence user acceptance behavior. This paper highlighted how there are 4 decision-making factors to which a user appeals when he has to accept a friend request, in particular, \textbf{"friendship factors"}, i.e. all the visible aspects of the profile (name, gender, profile picture, city of origin, residence, school, mutual friends, interests, etc.); \textbf{"privacy factors"}, dictated by a personal concern of a user and/or awareness of her, perhaps also due to personal experiences or friends; \textbf{"environmental factors"}, when friend requests are accepted without actually considering those who arrive due to lack of concentration and/or time to check; in the end \textbf{"capacity of interface"}, that means that some types of users spend a lot of time to understand what kind of person has asked them for friendship, with careful evaluation of all the information and photos of that profile, until sending a private message. Some users keep the friend request pending and reserve the right to check the profile occasionally, to see changes within it.
+	\\LINK: \href{https://www.usenix.org/conference/soups2014/proceedings/presentation/rashtian}{https://www.usenix.org/conference/soups2014/proceedings/presentation/}
 \end{enumerate}
-Nelle tabelle \ref{tab:requisiti-funzionali}, \ref{tab:requisiti-qualitativi} e \ref{tab:requisiti-vincolo} sono riassunti i requisiti e il loro tracciamento con gli use case delineati in fase di analisi.
 
-\newpage
-
-\begin{table}%
-\caption{Tabella del tracciamento dei requisti funzionali}
-\label{tab:requisiti-funzionali}
-\begin{tabularx}{\textwidth}{lXl}
-\hline\hline
-\textbf{Requisito} & \textbf{Descrizione} & \textbf{Use Case}\\
-\hline
-RFN-1     & L'interfaccia permette di configurare il tipo di sonde del test & UC1 \\
-\hline
-\end{tabularx}
-\end{table}%
-
-\begin{table}%
-\caption{Tabella del tracciamento dei requisiti qualitativi}
-\label{tab:requisiti-qualitativi}
-\begin{tabularx}{\textwidth}{lXl}
-\hline\hline
-\textbf{Requisito} & \textbf{Descrizione} & \textbf{Use Case}\\
-\hline
-RQD-1    & Le prestazioni del simulatore hardware deve garantire la giusta esecuzione dei test e non la generazione di falsi negativi & - \\
-\hline
-\end{tabularx}
-\end{table}%
-
-\begin{table}%
-\caption{Tabella del tracciamento dei requisiti di vincolo}
-\label{tab:requisiti-vincolo}
-\begin{tabularx}{\textwidth}{lXl}
-\hline\hline
-\textbf{Requisito} & \textbf{Descrizione} & \textbf{Use Case}\\
-\hline
-RVO-1    & La libreria per l'esecuzione dei test automatici deve essere riutilizzabile & - \\
-\hline
-\end{tabularx}
-\end{table}%
+\section{Summary and starting points}
+Continuing with the research, we have increasingly focused on the type of projects that could have turned out to be similar to the idea of putting oneself on the side of the attacker who wants to hit a specific victim and must ensure that he is accepted as a possible friend. \\All the papers found were useful to outline the parameters from which to start to structure the attacking and victim profiles.
+\\AGGIUNGEREEEE
