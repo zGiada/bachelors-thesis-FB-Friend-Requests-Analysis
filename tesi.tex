@@ -14,7 +14,7 @@
 \begin{filecontents*}{\jobname.xmpdata}
   \Title{Document’s title}
   \Author{Author’s name}
-  \Language{it-IT}{\tiny {\tiny }}
+  \Language{en-EN}{\tiny {\tiny }}
   \Subject{The abstract, or short description.}
   \Keywords{keyword1\sep keyword2\sep keyword3}
 \end{filecontents*}
@@ -30,6 +30,9 @@
 %**************************************************************
 % Importazione package
 %************************************************************** 
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{colortbl}
 
 \PassOptionsToPackage{dvipsnames}{xcolor} % colori PDF/A
 
@@ -47,7 +50,7 @@
 \usepackage[utf8]{inputenc}             % codifica di input; anche [latin1] va bene
                                         % NOTA BENE! va accordata con le preferenze dell'editor
 
-\usepackage[english, italian]{babel}    % per scrivere in italiano e in inglese;
+\usepackage[english]{babel}    % per scrivere in italiano e in inglese;
                                         % l'ultima lingua (l'italiano) risulta predefinita
 
 \usepackage{bookmark}                   % segnalibri
@@ -75,16 +78,16 @@
 \usepackage{listings}                   % codici
 
 \usepackage{microtype}                  % microtipografia
-
+\usepackage{multirow}
 \usepackage{mparhack,fixltx2e,relsize}  % finezze tipografiche
-
+\usepackage{amsmath}
 \usepackage{nameref}                    % visualizza nome dei riferimenti                                      
 \usepackage[font=small]{quoting}        % citazioni
 
 \usepackage{subfig}                     % sottofigure, sottotabelle
 
 \usepackage[italian]{varioref}          % riferimenti completi della pagina
-
+\usepackage{wrapfig}
 \usepackage{booktabs}                   % tabelle                                       
 \usepackage{tabularx}                   % tabelle di larghezza prefissata                                    
 \usepackage{longtable}                  % tabelle su più pagine                                        
@@ -126,21 +129,16 @@
 % Materiale principale
 %**************************************************************
 \mainmatter
-% INTRO
-% BACKGROUND
-% TOOL
-% RACCOLTA DATI
-% ESPERIMENTI
-% DISCUSSIONI
-% FUTURE WORKS
-% CONCLUSIONI
-\input{capitoli/capitolo-1}             % Introduzione
-\input{capitoli/capitolo-2}             % Processi
-\input{capitoli/capitolo-3}             % Kick-Off
-\input{capitoli/capitolo-4}             % Concept Preview
-\input{capitoli/capitolo-5}             % Product Prototype
-\input{capitoli/capitolo-6}             % Product Design Freeze e SOP
-\input{capitoli/capitolo-7}             % Conclusioni
+\input{capitoli/capitolo-1}		% Introduzione
+\input{capitoli/capitolo-2}     % Description internship
+\input{capitoli/capitolo-3}     % Background
+\input{capitoli/capitolo-4}     % Literature
+\input{capitoli/capitolo-5}     % Structure design
+\input{capitoli/capitolo-6}     % Development of the tools
+\input{capitoli/capitolo-7}     % Data collection
+\input{capitoli/capitolo-8}     % Data analysis
+\input{capitoli/capitolo-9}     % Future works
+\input{capitoli/capitolo-10}    % Conclusions
 \appendix                               
 \input{capitoli/capitolo-A}             % Appendice A
 
