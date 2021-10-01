@@ -12,11 +12,11 @@
 % PDF/A filecontents
 \RequirePackage{filecontents}
 \begin{filecontents*}{\jobname.xmpdata}
-  \Title{Document’s title}
-  \Author{Author’s name}
+  \Title{Facebook Friend Requests' Analysis: Development of Tools for Data Collection and Analysis}
+  \Author{Giada Zuccolo}
   \Language{en-EN}{\tiny {\tiny }}
-  \Subject{The abstract, or short description.}
-  \Keywords{keyword1\sep keyword2\sep keyword3}
+  \Subject{Bachelor's thesis concerning the study of the phenomenon of friend requests on Facebook and the development of specific tools to evaluate how a profile with certain characteristics is accepted more easily by another profile with certain characteristics.}
+  \Keywords{Analysis\sep Facebook\sep Friend Requests}
 \end{filecontents*}
 
 \documentclass[10pt,                    % corpo del font principale
@@ -24,7 +24,6 @@
                twoside,                 % impagina per fronte-retro
                openright,               % inizio capitoli a destra
                english,                 
-               italian,                 
                ]{book}    
 
 %**************************************************************
@@ -33,7 +32,8 @@
 \usepackage{array}
 \usepackage{xcolor}
 \usepackage{colortbl}
-
+\usepackage{slashbox}
+\usepackage{float}
 \PassOptionsToPackage{dvipsnames}{xcolor} % colori PDF/A
 
 \usepackage{colorprofiles}
@@ -50,7 +50,7 @@
 \usepackage[utf8]{inputenc}             % codifica di input; anche [latin1] va bene
                                         % NOTA BENE! va accordata con le preferenze dell'editor
 
-\usepackage[english]{babel}    % per scrivere in italiano e in inglese;
+\usepackage[english]{babel}    			% per scrivere in italiano e in inglese;
                                         % l'ultima lingua (l'italiano) risulta predefinita
 
 \usepackage{bookmark}                   % segnalibri
@@ -63,7 +63,7 @@
 
 \usepackage{emptypage}                  % pagine vuote senza testatina e piede di pagina
 
-\usepackage{epigraph}			% per epigrafi
+\usepackage{epigraph}					% per epigrafi
 
 \usepackage{eurosym}                    % simbolo dell'euro
 
@@ -101,7 +101,10 @@
 % 3. eseguire: makeindex -s tesi.ist -t tesi.alg -o tesi.acr tesi.acn
 % 4. compilare due volte tesi.tex.
 
-\usepackage[backend=biber,style=verbose-ibid,hyperref,backref]{biblatex}
+%\usepackage[backend=biber,style=verbose-ibid,hyperref,backref]{biblatex}
+\usepackage[backend=biber,style=numeric]{biblatex}
+
+
 % eccellente pacchetto per la bibliografia; 
 % produce uno stile di citazione autore-anno; 
 % lo stile "numeric-comp" produce riferimenti numerici
@@ -139,13 +142,13 @@
 \input{capitoli/capitolo-8}     % Data analysis
 \input{capitoli/capitolo-9}     % Future works
 \input{capitoli/capitolo-10}    % Conclusions
-\appendix                               
-\input{capitoli/capitolo-A}             % Appendice A
+%\appendix                               
+%\input{capitoli/capitolo-A}             % Appendice A
 
 %**************************************************************
 % Materiale finale
 %**************************************************************
 \backmatter
-\printglossaries
+%\printglossaries
 \input{inizio-fine/bibliografia}
 \end{document}

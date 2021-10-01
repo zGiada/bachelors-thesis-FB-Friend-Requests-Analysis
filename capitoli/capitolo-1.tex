@@ -6,48 +6,33 @@
 \chapter{Introduction}
 \label{cap:introduction}
 %**************************************************************
-The exponential technological development and the internet have proliferated new criminally relevant conduct: new and more powerful IT tools have created new ways of committing a crime and have generated criminal phenomena.
-\\For this reason, the area of primordial interest was the cybercriminal reality linked to the growing and hyperbolic development of the web and the technologies connected to it and how the types of crime (and criminals) and the most well-known and ordinary modus operandi have changed their physiognomy and have evolved with it.
-\\Just think of online social networks and how they have an increasing impact on everyday life. Nowadays, social networks occupy a considerable part of daily life: they allow you to share links, photos, videos, thoughts, and to show your interest in some brands or companies. Many companies keep their customers updated through these channels, which can even be very useful for the growth of their customers, with shrewd and studied marketing skills.
-In a more circumstantial reality, social networks allow you to stay in touch with friends near and far and favor the birth and development of relationships even with unknown users.
-\\It's precisely in this context that the project takes shape. 
-\\To start a relationship between two users, they must make contact, in some ways: generally or with a follow action (without some permissions) or with a friend request, where the user that receives the friend request has to accept (or not) the request to make contact with the other user. 
-\\In the case of the social network par excellence, namely Facebook, a profile A asks for friendship to a profile B, who can choose whether to accept, leave pending or reject.
-\\In fact, the person behind a virtual profile could be unknown: a person may have created a profile that does not belong to any real person but simulating its existence, to get in touch with some specific users.
-\\This mechanism has led to the birth of online crime aimed at targeting specific people who, initially unaware, find themselves becoming \textit{victims}.\\From here, a first project idea was born: put the focus from the attacker's point of view and then create a tool to analyze a victim and suggest to the criminal a series of information be used to create a profile that the victim would more likely accept.
+The exponential technological development, web, and the innovations connected to it, have generated different types of criminally relevant conduct: new and more powerful IT tools have updated the ways of committing a crime and have generated criminal phenomena. Furthermore,  the types of crime (and criminals) and the ordinary modus operandi have changed their physiognomy and have evolved with it: just think about that now the crime scenes could exist only in a virtual environment, as in the case of social networks. Social networks have an increasingly significant impact on people and their everyday life. Nowadays, social networks occupy a considerable part of daily life: they allow you to share links, photos, videos, thoughts, and to show your interest in some brands or companies. Many companies keep their customers updated through these channels, which can even be very useful for the growth of their customers, with shrewd and studied marketing skills. In a more circumstantial reality, social networks allow you to stay in touch with friends near and far and favor the birth and development of relationships even with unknown users.
+\par \noindent This thesis is positioned right in this context: the project described in this document aims to deepen the phenomenon of friend requests. To create a relationship between two users, they must make contact, in some ways. Generally, this happens with a \textit{follow action} like a friend request, where the user that receives the friend request has to accept (or not) the request to make contact with the other user.
+On Facebook \parencite{site:facebook}, the most famous social network, a profile \texttt{A} asks for friendship to a profile \texttt{B}, who can choose whether to accept, leave pending or reject. However, the person behind a virtual profile could be unknown: a person may have created a profile that does not belong to any real person but simulating its existence, to get in touch with some specific users. This mechanism has led to the birth of online crime aimed at targeting specific people who, initially unaware, find themselves becoming victims. From here the decision to develop a project that focuses on the attacker's point of view.
+\par \noindent Therefore, tools have been developed to automate the scrape, collection, and analysis of data, used for the main goal of this project: the development of a tool that analyzes an indicated victim profiles and suggests to the criminal a series of information be used to create a profile that the victim would more likely accept.
+\par \noindent The contributions of this thesis are manifold. 
+First of all, we want to underline how all the tools have been created to be able to work a variable amount of data: this implies the possibility of using these tools with a greater amount of data than that used in this project, ensuring optimal performance.
+In the second place, the creation of automated tools makes an important contribution to research: the development of automated tools, in order to collect and analyze data, allows researchers to gain valuable research time.
+Moreover, ad hoc datasets have been created that are usable on a large scale of data and also in different projects that need similar structures to collect data. The main contribution concerns the main topic of this project: the analysis of friend requests. The tools have provided exhaustive results, which are certainly a reasoning basis for more detailed and in-depth future developments (Chapter \ref{cap:future-works}).
 
-%\noindent Esempio di utilizzo di un termine nel glossario \\
-%\gls{api}. \\
-
-%\noindent Esempio di citazione in linea \\
-%\cite{site:agile-manifesto}. \\
-
-%\noindent Esempio di citazione nel pie' di pagina \\
-%citazione\footcite{womak:lean-thinking} \\
-
-%**************************************************************
-\section{Organizzazione del testo}
-
-\subsection{Contents}
+\subsection*{Contents}
 
 \begin{description}
-    \item[{\hyperref[cap:processi-metodologie]{Il secondo capitolo}}] descrive ...
+    \item[{\hyperref[cap:description-internship]{The second chapter}}] introduces the project and the chronological order in which it was carried out within the internship, also showing the expected products at the end of it.
     
-    \item[{\hyperref[cap:descrizione-stage]{Il terzo capitolo}}] approfondisce ...
+    \item[{\hyperref[cap:background]{The third chapter}}] illustrates the technologies used for the development of the project.
     
-    \item[{\hyperref[cap:analisi-requisiti]{Il quarto capitolo}}] approfondisce ...
+    \item[{\hyperref[cap:literature-search]{The fourth chapter}}] reports what has been found in the literature and outlines the starting points for the development of the project.
     
-    \item[{\hyperref[cap:progettazione-codifica]{Il quinto capitolo}}] approfondisce ...
-    
-    \item[{\hyperref[cap:verifica-validazione]{Il sesto capitolo}}] approfondisce ...
-    
-    \item[{\hyperref[cap:conclusioni]{Nel settimo capitolo}}] descrive ...
-\end{description}
+    \item[{\hyperref[cap:structure-design]{The fifth chapter}}] explores the structure of the project, defining the parameters, based on what has been learned from the literature and from the case study to be represented. In the end, the architecture of the system is graphically shown which explains the relationships between the various tools.
 
-\subsection{Typographic conventions}
-Riguardo la stesura del testo, relativamente al documento sono state adottate le seguenti convenzioni tipografiche:
-\begin{itemize}
-	\item gli acronimi, le abbreviazioni e i termini ambigui o di uso non comune menzionati vengono definiti nel glossario, situato alla fine del presente documento;
-	\item per la prima occorrenza dei termini riportati nel glossario viene utilizzata la seguente nomenclatura: \emph{parola}\glsfirstoccur;
-	\item i termini in lingua straniera o facenti parti del gergo tecnico sono evidenziati con il carattere \emph{corsivo}.
-\end{itemize}
+    \item[{\hyperref[cap:tools]{The sixth chapter}}]  describes the development and execution of tools for the creation of attacker profiles, for the searching of victim profiles, and for sending friend requests.
+
+	\item[{\hyperref[cap:data-collection]{The seventh chapter}}] describes the development and execution procedure of tools for analyzing the collected data.
+    	
+	\item[{\hyperref[cap:data-analysis]{The eighth chapter}}] critically describes the results of the analyzed data, explains the acceptance model and the development and operation of the ``\texttt{Zero-Effort Attack}'' tool.
+%----------------------------------------------------------%
+	\item[{\hyperref[cap:future-works]{The ninth chapter}}] lists the possible future works that this project opens.
+	
+	\item[{\hyperref[cap:conclusions]{The tenth chapter}}] summarizes the project and the acquired knowledge, concluding with a personal evaluation.
+\end{description}
