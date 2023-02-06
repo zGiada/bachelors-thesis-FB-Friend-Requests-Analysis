@@ -1,0 +1,294 @@
+$ python windows-analize-friend-request.py
+C:\Users\giada\Desktop\Stage\Report-Stage\code-final_version\analizer\windows-an
+alize-friend-request.py:126: DeprecationWarning: use options instead of chrome_o
+ptions
+  driver = webdriver.Chrome(PATH, chrome_options=chrome_options)
+
+DevTools listening on ws://127.0.0.1:50505/devtools/browser/d73fcc96-b929-4d6e-b
+65b-cd1816697204
+[17888:17824:0809/095448.364:ERROR:device_event_log_impl.cc(214)] [09:54:48.365]
+ USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connecti
+on: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+[17888:17824:0809/095448.371:ERROR:device_event_log_impl.cc(214)] [09:54:48.372]
+ USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connecti
+on: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+no cookie
+3
+2
+1
+0
+------------------------------ attacker = PF-11
+https://www.facebook.com/emanuele.scarfi ok
+https://www.facebook.com/edoardo.mucchetti ok
+https://www.facebook.com/vincenzo.marzano.944 ok
+https://www.facebook.com/annarita.zanchetta ok
+https://www.facebook.com/cinziadilucia ok
+https://www.facebook.com/sandro.vagni.9 ok
+https://www.facebook.com/alberto.tafuni ok
+https://www.facebook.com/massimo.demme ok
+https://www.facebook.com/lino.giorgiogiovanni ok
+https://www.facebook.com/stella.rosi ok
+https://www.facebook.com/gabriella.cornaggia ok
+https://www.facebook.com/roberta.malaspina.7 ok
+https://www.facebook.com/massimo.verni.10 ok
+https://www.facebook.com/federica.cerutti1 ok
+https://www.facebook.com/alberto.tau ok
+acceptance rate: 15/36
+
+DevTools listening on ws://127.0.0.1:51399/devtools/browser/5b5c37cd-fbf8-4d34-a
+15e-dc8798e87455
+[17380:16052:0809/095555.345:ERROR:device_event_log_impl.cc(214)] [09:55:55.340]
+ USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connecti
+on: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+no cookie
+3
+2
+1
+0
+------------------------------ attacker = PF-10
+https://www.facebook.com/susannasusy.finotto ok
+https://www.facebook.com/vincenzo.pronesti.58 ok
+https://www.facebook.com/federica.franciosi.9 ok
+https://www.facebook.com/marcello.esposito.148 ok
+https://www.facebook.com/stefano.tarocco.98 ok
+https://www.facebook.com/federica.salvagno.9 ok
+https://www.facebook.com/stefano.gori.35380 ok
+acceptance rate: 7/36
+
+DevTools listening on ws://127.0.0.1:64111/devtools/browser/28ce459c-7b47-4618-8
+92e-f601a6d65430
+[18420:16336:0809/095659.182:ERROR:device_event_log_impl.cc(214)] [09:56:59.169]
+ USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connecti
+on: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+no cookie
+3
+2
+1
+0
+------------------------------ attacker = PF-9
+https://www.facebook.com/profile.php?id=100011179571805 ok
+https://www.facebook.com/linda.giacomelli.7 ok
+https://www.facebook.com/riccardo.ballarin.507 ok
+https://www.facebook.com/profile.php?id=100011528832941 ok
+https://www.facebook.com/thomas.lussi1 ok
+https://www.facebook.com/massimo.iachelli ok
+https://www.facebook.com/fabio.bellachioma ok
+acceptance rate: 7/36
+
+DevTools listening on ws://127.0.0.1:59888/devtools/browser/c770f295-1785-4111-a
+aa6-131801ad6c60
+[19492:19988:0809/095808.226:ERROR:device_event_log_impl.cc(214)] [09:58:08.226]
+ USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connecti
+on: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+[19492:19988:0809/095808.234:ERROR:device_event_log_impl.cc(214)] [09:58:08.234]
+ USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connecti
+on: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+no cookie
+3
+2
+1
+0
+------------------------------ attacker = PF-8
+https://www.facebook.com/barbara.mazzucato.7 ok
+https://www.facebook.com/giacomo.angerillo.9 ok
+https://www.facebook.com/alessio.boseggia.5 ok
+https://www.facebook.com/sandro.calabro ok
+https://www.facebook.com/vincenzo.santangelo.311 ok
+https://www.facebook.com/matteo.migliore ok
+https://www.facebook.com/gianfranco.livieri ok
+https://www.facebook.com/alberto.muciaccia ok
+https://www.facebook.com/tommaso.butera ok
+https://www.facebook.com/simone.cerchiaro ok
+acceptance rate: 10/36
+
+DevTools listening on ws://127.0.0.1:56810/devtools/browser/70e322c0-9a76-44d7-8
+80f-9ffb19f505c2
+[17844:8088:0809/095914.869:ERROR:device_event_log_impl.cc(214)] [09:59:14.866]
+USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connectio
+n: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+no cookie
+3
+2
+1
+0
+------------------------------ attacker = PF-1
+https://www.facebook.com/marco.calonaci.9 ok
+https://www.facebook.com/daniela.varoli.7 ok
+https://www.facebook.com/michele.vizzi ok
+https://www.facebook.com/profile.php?id=100009350110569 ok
+https://www.facebook.com/a.c.voiceproduction ok
+https://www.facebook.com/michele.dazzi.54 ok
+https://www.facebook.com/chiara.rampi.5 ok
+acceptance rate: 7/36
+
+DevTools listening on ws://127.0.0.1:50577/devtools/browser/e009f85d-ea7d-47ed-8
+cfe-9776acf2ff22
+[18864:18796:0809/100020.564:ERROR:device_event_log_impl.cc(214)] [10:00:20.557]
+ USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connecti
+on: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+[18864:18796:0809/100020.573:ERROR:device_event_log_impl.cc(214)] [10:00:20.566]
+ USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connecti
+on: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+no cookie
+3
+2
+1
+0
+------------------------------ attacker = PF-0
+https://www.facebook.com/sonia.alvesdonascimento.3 ok
+https://www.facebook.com/laura.tavella.73 ok
+https://www.facebook.com/simone.congedi.5 ok
+https://www.facebook.com/marcello.camera1 ok
+https://www.facebook.com/gianpietro.simion ok
+https://www.facebook.com/gianna.prendin ok
+https://www.facebook.com/davide.camma94 ok
+https://www.facebook.com/gianmario.brunella ok
+https://www.facebook.com/enzo.licusato ok
+https://www.facebook.com/riccardo.romagnoli.984 ok
+https://www.facebook.com/alessio.cerutti.9 ok
+https://www.facebook.com/aurora.militello.33 ok
+acceptance rate: 12/36
+
+DevTools listening on ws://127.0.0.1:51415/devtools/browser/84be4b21-3935-4e3f-8
+11c-22583b2ca535
+[17520:4656:0809/100126.245:ERROR:device_event_log_impl.cc(214)] [10:01:26.245]
+USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connectio
+n: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+[17520:4656:0809/100126.249:ERROR:device_event_log_impl.cc(214)] [10:01:26.249]
+USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connectio
+n: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+no cookie
+3
+2
+1
+0
+------------------------------ attacker = PF-3
+https://www.facebook.com/tommaso.costa1 ok
+https://www.facebook.com/annarita.sartori ok
+https://www.facebook.com/nicola.staniscia.967 ok
+https://www.facebook.com/antonella.albanesi ok
+https://www.facebook.com/riccardo.balcani.7 ok
+https://www.facebook.com/claudia.mangraviti.1 ok
+https://www.facebook.com/marcello.meinero ok
+acceptance rate: 7/36
+
+DevTools listening on ws://127.0.0.1:54509/devtools/browser/d00f00d1-00d3-41a6-9
+14c-e6c25bebd1ab
+[3868:14800:0809/100232.450:ERROR:device_event_log_impl.cc(214)] [10:02:32.448]
+USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connectio
+n: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+[3868:14800:0809/100232.453:ERROR:device_event_log_impl.cc(214)] [10:02:32.450]
+USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connectio
+n: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+no cookie
+3
+2
+1
+0
+------------------------------ attacker = PF-2
+https://www.facebook.com/sabrina.longo.9484 ok
+https://www.facebook.com/gabriele.leonardilopez ok
+https://www.facebook.com/profile.php?id=100052879716027 ok
+https://www.facebook.com/profile.php?id=100010032466855 ok
+https://www.facebook.com/riccardo.ave ok
+https://www.facebook.com/mattia.baldisserotto ok
+acceptance rate: 6/36
+
+DevTools listening on ws://127.0.0.1:63725/devtools/browser/924902ca-4879-4fa5-a
+1af-e7702ab4729a
+[8084:19160:0809/100337.354:ERROR:device_event_log_impl.cc(214)] [10:03:37.345]
+USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connectio
+n: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+[8084:19160:0809/100337.356:ERROR:device_event_log_impl.cc(214)] [10:03:37.347]
+USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connectio
+n: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+no cookie
+3
+2
+1
+0
+------------------------------ attacker = PF-5
+https://www.facebook.com/profile.php?id=100041904009333 ok
+https://www.facebook.com/alessandro.grassi.98871 ok
+https://www.facebook.com/daniele.dibella.5682 ok
+https://www.facebook.com/vincenzo.lagrasta.1 ok
+https://www.facebook.com/vincenzo.cassitti.5 ok
+https://www.facebook.com/andrea.palomba.98 ok
+https://www.facebook.com/massimo.brusa ok
+https://www.facebook.com/fabio.colloridi ok
+https://www.facebook.com/domenico.favale.33 ok
+https://www.facebook.com/sandro.marzolla.9 ok
+acceptance rate: 10/36
+
+DevTools listening on ws://127.0.0.1:54849/devtools/browser/5ceb47b4-4848-4583-8
+bff-8bd2aab3e21d
+[3960:16508:0809/100442.989:ERROR:device_event_log_impl.cc(214)] [10:04:42.981]
+USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connectio
+n: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+[3960:16508:0809/100443.051:ERROR:device_event_log_impl.cc(214)] [10:04:43.044]
+USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connectio
+n: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+no cookie
+3
+2
+1
+0
+------------------------------ attacker = PF-4
+https://www.facebook.com/fabio.consalvi.3726 ok
+https://www.facebook.com/nicola.tarsia.59 ok
+acceptance rate: 2/36
+
+DevTools listening on ws://127.0.0.1:58182/devtools/browser/56b3d4fc-e270-4438-8
+cb7-4e27f9bb2762
+[13340:16016:0809/100549.361:ERROR:device_event_log_impl.cc(214)] [10:05:49.358]
+ USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connecti
+on: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+[13340:16016:0809/100549.367:ERROR:device_event_log_impl.cc(214)] [10:05:49.363]
+ USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connecti
+on: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+no cookie
+3
+2
+1
+0
+------------------------------ attacker = PF-7
+https://www.facebook.com/annarita.maini ok
+https://www.facebook.com/leonardo.nole.94 ok
+https://www.facebook.com/vincenzo.amatruda.3 ok
+https://www.facebook.com/marco.monda ok
+https://www.facebook.com/sandro.amista ok
+acceptance rate: 5/36
+
+DevTools listening on ws://127.0.0.1:62490/devtools/browser/7e4a4a92-ef7b-4804-b
+f28-77ecada920c4
+[20028:16724:0809/100654.492:ERROR:device_event_log_impl.cc(214)] [10:06:54.477]
+ USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connecti
+on: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+[20028:16724:0809/100654.497:ERROR:device_event_log_impl.cc(214)] [10:06:54.482]
+ USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connecti
+on: Un dispositivo collegato al sistema non  in funzione. (0x1F)
+no cookie
+3
+2
+1
+0
+------------------------------ attacker = PF-6
+https://www.facebook.com/alessia.cesana ok
+https://www.facebook.com/alessandra.myamo.7 ok
+https://www.facebook.com/giacomo.marcheschi ok
+https://www.facebook.com/leonardo.marceddu2 ok
+https://www.facebook.com/emma.ugurgieri ok
+https://www.facebook.com/katia.perdicaro ok
+https://www.facebook.com/giacomo.l.gatto ok
+https://www.facebook.com/marco.kiptiu ok
+https://www.facebook.com/annarita.annarita.10 ok
+https://www.facebook.com/valeria.andrenacci.1 ok
+https://www.facebook.com/leonardo.iannuzzi.1694 ok
+https://www.facebook.com/tommaso.carbutti ok
+https://www.facebook.com/vincenzo.ambruosi.52 ok
+https://www.facebook.com/fabrizio.rofi.779 ok
+https://www.facebook.com/silvia.bisceglia.90 ok
+https://www.facebook.com/fabio.darpino.1 ok
+https://www.facebook.com/fabrizio.edeleonora ok
+https://www.facebook.com/fabrizio.leone.315 ok
+acceptance rate: 18/36

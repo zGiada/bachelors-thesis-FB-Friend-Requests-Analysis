@@ -1,0 +1,2701 @@
+{
+    "PF-11": [
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/antonella.bussolin"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/matilde.novelli.1"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/profile.php?id=100009788614377"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF3",
+            "victim": "https://www.facebook.com/ivana.marelli.923"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/fabio.arbace"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/emanuele.scarfi"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/edoardo.mucchetti"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/simone.gigante.14"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "FT2",
+            "victim": "https://www.facebook.com/annarita.parrotta"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "FT2",
+            "victim": "https://www.facebook.com/daniela.ruggiero.7737"
+        },
+        {
+            "victim": "https://www.facebook.com/sonia.subrero",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/katia.giampani.16",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/federica.morandini.7",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.marzano.944",
+            "date": "2021-07-29",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/gabriele.fabbrizi.7",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/alessandro.ali.37",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.zanchetta",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/elena.fandole",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/cinziadilucia",
+            "date": "2021-07-29",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/sandro.vagni.9",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/alberto.tafuni",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/massimo.malossi.79",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/tommaso.lerede.7",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/massimo.demme",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/lino.giorgiogiovanni",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.marcellino",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/stella.rosi",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/gabriella.cornaggia",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/silvia.patera.58",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/roberta.malaspina.7",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/laura.maimeripanizza.75",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/max.magnaghi",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/fabrizio.sera",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/marco.pietrapertosa",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/stefano.toffaletti.7",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/massimo.verni.10",
+            "date": "2021-08-02",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/federica.cerutti1",
+            "date": "2021-08-02",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/roberta.motta.509",
+            "date": "2021-08-02",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/alberto.tau",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/alessandro.impolito.7",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/giuseppe.cianciarulo.39",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/gabriele.valli.967",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/valentina.bahmacenco",
+            "date": "2021-08-03",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/alessio.criscitiello",
+            "date": "2021-08-04",
+            "type": "MT4"
+        }
+    ],
+    "PF-10": [
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/susanna.mirasole"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/matilde.catena.9"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/irene.severini.71"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF3",
+            "victim": "https://www.facebook.com/susannasusy.finotto"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/jacopo.iannaccone.3"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/emanuele.ledda.7"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/edoardo.mosca.7"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/alberto.alcido"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "FT2",
+            "victim": "https://www.facebook.com/annarita.olisterno.7"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "FT2",
+            "victim": "https://www.facebook.com/sonia.librici"
+        },
+        {
+            "victim": "https://www.facebook.com/sonia.manassero",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/linda.provvedi",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/katia.bigondi",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.pronesti.58",
+            "date": "2021-07-28",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/marco.vestita.18",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/tommaso.p.lorenzetti",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.ecarlo",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/daniela.iulini.5",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/federica.franciosi.9",
+            "date": "2021-07-29",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/alessio.derossi.589",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/lorenzo.mele.9256",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/michele.alpat",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/marcello.esposito.148",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.filippello.52",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/germano.costa.5",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/germano.pavan.3",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/marilena.pirovano.75",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.baldoni",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/mary.gioia.167",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/roberta.lilli.9",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/agata.montefalco.10",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100009288881480",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/stefano.c.cremonese",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/mattia.nevi87",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/stefano.tarocco.98",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/valerio.uboldi1",
+            "date": "2021-08-02",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/federica.salvagno.9",
+            "date": "2021-08-02",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/roberta.bertacchi.74",
+            "date": "2021-08-02",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/leonardo.liotta1",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/paolo.martini.3152",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/stefano.gori.35380",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/aldo.suppo",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/lucia.brughera",
+            "date": "2021-08-03",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/davide.deluigi.35",
+            "date": "2021-08-04",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/roberta.manigrasso",
+            "date": "2021-08-04",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/anna.massotti.98",
+            "date": "2021-08-04",
+            "type": "FT2"
+        }
+    ],
+    "PF-9": [
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/profile.php?id=100011179571805"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/elisa.zanovello.37"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/greta.togni"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF3",
+            "victim": "https://www.facebook.com/tecla.prealta"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/marco.cicala.33"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/emanuele.busin"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/gabriele.iovine.7165"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/simone.campanella.3"
+        },
+        {
+            "victim": "https://www.facebook.com/chiara.gemma.92",
+            "date": "2021-07-27",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/sonia.micelotta",
+            "date": "2021-07-27",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/sonia.summer",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/linda.giacomelli.7",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/katia.adesso",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/fabrizio.zanieri.14",
+            "date": "2021-07-29",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/fabio.dascenzo.9",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/tommaso.schiavo.5",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.andreini",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/daniela.caraja.1",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/alice.deambrogi",
+            "date": "2021-07-29",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/alessio.medico.18",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/lorenzo.golosita",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/riccardo.ballarin.507",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/tommaso.funaro",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.niso",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100011528832941",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/giancarlo.pellegrini.56",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/alberta.massacci.5",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/gabriella.pistoni.7",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100009019819672",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/roberta.radulescu.9",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/lucia.oliva.370",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/Marioruggier",
+            "date": "2021-08-02",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/tommaso.spotti.7",
+            "date": "2021-08-02",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/omar.vurro",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/thomas.lussi1",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/massimo.iachelli",
+            "date": "2021-08-02",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/federica.chincarini",
+            "date": "2021-08-02",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/silvia.mondino",
+            "date": "2021-08-02",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/edoardo.ingra",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/riccardo.buldini",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/fabio.bellachioma",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/aldo.patane",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/cristina.palara.94",
+            "date": "2021-08-03",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/tommaso.pinca",
+            "date": "2021-08-04",
+            "type": "MT4"
+        }
+    ],
+    "PF-8": [
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/barbara.mazzucato.7"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/silvia.grosselle.98"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/simona.baronti"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF3",
+            "victim": "https://www.facebook.com/nicoletta.gandolfi.3"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/giulio.alfonsi.5"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/emanuele.messale"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/giacomo.angerillo.9"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/lorenzo.cannato.5"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.vallariello",
+            "date": "2021-07-27",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/agata.cannella.1",
+            "date": "2021-07-27",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/agata.agata.35513",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/linda.remorini.7",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/katia.zocca",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100008531526265",
+            "date": "2021-07-29",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/gabriele.achille",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/alessio.bombardieri08",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.coach",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/sonia.giaipron.10",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/michela.miccio.12",
+            "date": "2021-07-29",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/alessio.boseggia.5",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https: //www.facebook.com/maurizio.ventura.94",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.santangelo.311",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/matteo.migliore",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.scifo.5",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100009107427392",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/leonardo.incusci",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/elisabetta.scala1",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.messere.3",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/giada.prugnola",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/claudia.dalo.fotografia",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/serena.liddi.96",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/gianfranco.livieri",
+            "date": "2021-08-02",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/emanuele.barbetta.5",
+            "date": "2021-08-02",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/alberto.muciaccia",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/thomas.ambrosoni",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.cutrupi.3",
+            "date": "2021-08-02",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/federica.rizzocz",
+            "date": "2021-08-02",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/laura.lorenzi.16",
+            "date": "2021-08-02",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/gabriele.gabriele.1069020",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/tommaso.butera",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/giuseppe.pianta.5",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/simone.cerchiaro",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/cristina.vasconvolta.3",
+            "date": "2021-08-03",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/sandro.calabro",
+            "date": "2021-08-04",
+            "type": "MT4"
+        }
+    ],
+    "PF-1": [
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/vittorina.barabani"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/angela.verza.3"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/profile.php?id=100059807944021"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF3",
+            "victim": "https://www.facebook.com/claudia.pagliari.1"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/marco.perri.100"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/marco.calonaci.9"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/emanuele.bertusi"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/aldo.secondo.75"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "FT2",
+            "victim": "https://www.facebook.com/elisabetta.valla.1"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "FT2",
+            "victim": "https://www.facebook.com/annarita.ranno"
+        },
+        {
+            "victim": "https://www.facebook.com/elisabetta.montanari.54",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/daniela.varoli.7",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/katia.micco.9",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/michele.vizzi",
+            "date": "2021-07-28",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/riccardo.barocco",
+            "date": "2021-07-28",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/jacopo.guidone.50",
+            "date": "2021-07-28",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/valentina.veverita.75",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/rachele.patrizio.1",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/sonia.grisorio",
+            "date": "2021-07-29",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/marcello.giovannacci",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100009350110569",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/alberto.gorga.9",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/filippo.spallieri",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/antonino.galletta86",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/gilberto.bernardi.754",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/martini.tiziano.3",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/elisabetta.mattioli.58",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/gianna.gulpar",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100007915391581",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/marina.lecchi",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/eva.xhediku",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/a.c.voiceproduction",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/nicolo.cosentino.71",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/davide.boccia.108",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/michele.dazzi.54",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/germano.germano.92123",
+            "date": "2021-08-02",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/linda.roselli.104",
+            "date": "2021-08-02",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/chiara.rampi.5",
+            "date": "2021-08-02",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100070287951652",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/marco.sancilio.359",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/marco.sarli.5",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/giuseppe.buonpensiero.5",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/chiara.lee.562",
+            "date": "2021-08-03",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100024723500782",
+            "date": "2021-08-04",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100001790583272",
+            "date": "2021-08-04",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/francesca.grasso.9028194",
+            "date": "2021-08-04",
+            "type": "FT2"
+        }
+    ],
+    "PF-0": [
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/anna.agostini.79"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/federica.omizzolo"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/labottega.acconciatori"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF3",
+            "victim": "https://www.facebook.com/annalisa.rubello"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/tommaso.ciniglio"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/roberto.scialpifieschidugenta"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/emanuele.veluti"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/edoardo.pagani.9"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "FT2",
+            "victim": "https://www.facebook.com/elisabetta.alboretto"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "FT2",
+            "victim": "https://www.facebook.com/annarita.derosa.12"
+        },
+        {
+            "victim": "https://www.facebook.com/francesca.virtu",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/sonia.alvesdonascimento.3",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/katia.librera",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/michele.oddone.9",
+            "date": "2021-07-28",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/gabriele.taini.9",
+            "date": "2021-07-28",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/jacopo.gubitosi",
+            "date": "2021-07-28",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/valentina.ravar",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.dinca",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/laura.tavella.73",
+            "date": "2021-07-29",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/davide.aversa.33",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/edoardo.pozzoni.1",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/simone.congedi.5",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/marcello.camera1",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/giuseppe.strisciullo",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/alessandro.gottardo.3",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/gianpietro.simion",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/gianna.prendin",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/olga.bertoluzza",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/HeraSte",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/linda.salvini.9",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/alessandra.gioia.10236",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/davide.camma94",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/gianmario.brunella",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/domenico.pistono",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.dalessandro.54",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/massiliano.cecili",
+            "date": "2021-08-02",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/linda.bonomo.54",
+            "date": "2021-08-02",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/emma.saisi",
+            "date": "2021-08-02",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/domenico.vannucci.9",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/enzo.licusato",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/riccardo.romagnoli.984",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/fabio.sbordone.5",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/francesca.castelbarco",
+            "date": "2021-08-03",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/alessio.cerutti.9",
+            "date": "2021-08-04",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/aurora.militello.33",
+            "date": "2021-08-04",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/francesca.recchia.96",
+            "date": "2021-08-04",
+            "type": "FT2"
+        }
+    ],
+    "PF-3": [
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/gaia.angelini.18"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/sara.camon.10"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/luisa.bovitutti"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF3",
+            "victim": "https://www.facebook.com/anna.caserta.332"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/alessandro.dusioschapira"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/tommaso.costa1"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/giacomo.marro.79"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/leonardo.melchionna.33"
+        },
+        {
+            "victim": "https://www.facebook.com/francesca.castronuovo.3",
+            "date": "2021-07-27",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.demicco.1",
+            "date": "2021-07-27",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/agata.luoni",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/sonia.ditomasi",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/alice.draperi.5",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/emanuele.giordano.5680",
+            "date": "2021-07-29",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/giuseppe.bongiovanni.3958",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/fabio.verzieri",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/elisabetta.maiani.9",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.sartori",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/daniela.busato.509",
+            "date": "2021-07-29",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/matteo.mattuzzi",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/aldo.sbarro",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/filippo.torchia.7",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/tommaso.dragonetti",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.sarni.7",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/nicola.staniscia.967",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/carlo.delfini.5",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/cinzia.millefanti.5",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/antonella.albanesi",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/laura.clim.1",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/federica.cavaliere.9",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/alessandra.alejandra",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100023906769942",
+            "date": "2021-08-02",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/pacifico.piersimoni",
+            "date": "2021-08-02",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/michele.pannucci.35",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.serra.77",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/giovanni.brino",
+            "date": "2021-08-02",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/alice.merlina.18",
+            "date": "2021-08-02",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/luisa.pezzotta.90",
+            "date": "2021-08-02",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/pietro.guatteri",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/jacopo.giorgio.777",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/gabriele.pich.5",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/riccardo.balcani.7",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/claudia.mangraviti.1",
+            "date": "2021-08-03",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/sandro.capella",
+            "date": "2021-08-04",
+            "type": "MT4"
+        }
+    ],
+    "PF-2": [
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/sabrina.longo.9484"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/elena.galbiati.96"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/ilaria.pucci.5"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF3",
+            "victim": "https://www.facebook.com/profile.php?id=100009283608206"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/tommaso.romeo1"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/tommaso.finardi"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/giacomo.manzoni"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/fabrizio.chelli.52"
+        },
+        {
+            "victim": "https://www.facebook.com/francesca.capuzzimati",
+            "date": "2021-07-27",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.bova",
+            "date": "2021-07-27",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/elisabetta.figna.3",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/daniela.milassano",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/katia.krysteva",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/edoardo.giona",
+            "date": "2021-07-29",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/jacopo.ciuccio",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/gabriele.leonardilopez",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/elisabetta.devincenzi.5",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/paola.franchi.79",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/roberta.marcandalli.10",
+            "date": "2021-07-29",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/matteo.frediani.9",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/edoardo.arrigoni.3",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/giulio.delfiandra",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/pella.fabio1",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/simone.giancano.7",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100052879716027",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100010032466855",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/stefano.nogarotto.9",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100071117495751",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/sofia.russo.5055233",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/federica.anzelmo.50",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/francesca.bellesia.3",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/marco.bonfadini.10",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/osvaldo.fedrizzi",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/riccardo.ave",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.licausi.3",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/giancarlo.giacani.9",
+            "date": "2021-08-02",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/linda.capecchi",
+            "date": "2021-08-02",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/silvia.natale.332",
+            "date": "2021-08-02",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/riccardo.re.94",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/marco.ruggeri.94064",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/mattia.baldisserotto",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/tommaso.acquaviva.5",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/silvia.bonadio.96",
+            "date": "2021-08-03",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/alessio.gerardini",
+            "date": "2021-08-04",
+            "type": "MT4"
+        }
+    ],
+    "PF-5": [
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/profile.php?id=100005670285832"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/serena.acciaiuoli"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/clementina.marzolla"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF3",
+            "victim": "https://www.facebook.com/gaeta.sturniolo"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/profile.php?id=100041904009333"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/alessandro.grassi.98871"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/daniele.dibella.5682"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/leonardo.cicogna"
+        },
+        {
+            "victim": "https://www.facebook.com/elisabetta.bettucchi",
+            "date": "2021-07-27",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/emma.lorenzelli.5",
+            "date": "2021-07-27",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/chiara.schiavio",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/linda.lingrais",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/alice.iaia.1",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/marco.pirastru.25",
+            "date": "2021-07-29",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/daniel.bellotto.37",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/tommaso.barlotti",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/elisabetta.alvisi.9",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/agata.crobu",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/elena.elinaelena",
+            "date": "2021-07-29",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/matteo.bissaro.9",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/leonardo.repetto.35",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.lagrasta.1",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/marcello.meinero",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.cassitti.5",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/andrea.palomba.98",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/blandino.spigolon.94",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/nonna.wilma",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/vittorina.vittorina.39",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/matilde.bruschi.7",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/caterina.giacchi",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/francesca.vodopia",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/fabrizio.impoco",
+            "date": "2021-08-02",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/denis.cancellieri.3",
+            "date": "2021-08-02",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/thomas.lucchino",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/massimo.brusa",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.vicenzi",
+            "date": "2021-08-02",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/alice.corbo.3",
+            "date": "2021-08-02",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/mattia.segreto.71",
+            "date": "2021-08-02",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/stefano.sansavini.9",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/fabio.colloridi",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/domenico.favale.33",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/alessandro.amoia",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/roberta.ghidini.7",
+            "date": "2021-08-03",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/sandro.marzolla.9",
+            "date": "2021-08-04",
+            "type": "MT4"
+        }
+    ],
+    "PF-4": [
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/chiara.conti.104"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/lo.chalet.180"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/alessandra.verza.54"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF3",
+            "victim": "https://www.facebook.com/giuliana.macchi.1"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/alessandro.vins.9"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/tommaso.motterlini"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/giacomo.barion"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/leonardo.contessa.7"
+        },
+        {
+            "victim": "https://www.facebook.com/elisabetta.minelli.31",
+            "date": "2021-07-27",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/ilaria.meneghini",
+            "date": "2021-07-27",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.ciurlia.9",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/greta.89gre",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/katia.cusenza.5",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/emanuele.polselli",
+            "date": "2021-07-29",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/marco.ingrosso.961",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/fabio.fresco.16",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/elisabetta.muriana",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.grotto",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/giulia.fiordimonte",
+            "date": "2021-07-29",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/tommaso.destino.96",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/fabrizio.basteri.7",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/matteo.cauchioli",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/tommaso.cioce.75",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.mottola.397",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/gianni.pellegatta.3",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/flavio.rabaglia",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/mariaceleste.rossi.5",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/elisabetta.solla.5",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/laura.perfranceschi",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/gaia.penna1",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/greta.marangon",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/DjRespy",
+            "date": "2021-08-02",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/luca.saorin",
+            "date": "2021-08-02",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/michele.o.bandini.3",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/massimo.dalmonte.5",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100011226126456",
+            "date": "2021-08-02",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/alice.giorda.3",
+            "date": "2021-08-02",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/ada.lio.9",
+            "date": "2021-08-02",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/larioscorte",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/fabio.consalvi.3726",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/nicola.tarsia.59",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/giancarlo.pozzi.104",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/roberta.haupt.9",
+            "date": "2021-08-03",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/vittorio.semino",
+            "date": "2021-08-04",
+            "type": "MT4"
+        }
+    ],
+    "PF-7": [
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/noemi.marinelli.98"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/federica.gasparini.102"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/roberta.bottani"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF3",
+            "victim": "https://www.facebook.com/rita.michelini.9"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/giulio.ottanelli"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/emanuele.faini.9"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/giacomo.catalano.5"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/leonardo.zito"
+        },
+        {
+            "victim": "https://www.facebook.com/elisabetta.zanette",
+            "date": "2021-07-27",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.sarcone",
+            "date": "2021-07-27",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/agata.elisabeth",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/linda.bertelloni",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/katia.saccaro.1",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/giacomo.cillario",
+            "date": "2021-07-29",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/marco.rodolico.3",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/marco.quaglio.79",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/giacomo.cillario",
+            "date": "2021-07-29",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.maini",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/agata.comande",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/gianna.malisani",
+            "date": "2021-07-29",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/alessio.baratella.5",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/leonardo.nole.94",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.amatruda.3",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/tommaso.gioia.98",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.limosani",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/zanin.maurizio",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/filippo.marini.737",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/piera.rimoldi.3",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.prearo",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/chiaranomade",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/irene.elis.1",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100060787554444",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/daniele.cucculelli",
+            "date": "2021-08-02",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/michele.vischi",
+            "date": "2021-08-02",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/edoardo.carbonin",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/thomas.cuppone",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.bagnoli",
+            "date": "2021-08-02",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/katia.canuri",
+            "date": "2021-08-02",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/giulia.controne.1",
+            "date": "2021-08-02",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/stefano.sartori.3",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/marco.monda",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/gabriele.graziosi.1",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/giacomo.leva.940",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/anna.carbone.372",
+            "date": "2021-08-03",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/sandro.amista",
+            "date": "2021-08-04",
+            "type": "MT4"
+        }
+    ],
+    "PF-6": [
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/alessia.cesana"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/alessandra.myamo.7"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF2",
+            "victim": "https://www.facebook.com/la.isa.52"
+        },
+        {
+            "date": "2021-07-26",
+            "type": "FF3",
+            "victim": "https://www.facebook.com/elisabetta.brighetti.3"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/giulio.masi"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/emanuele.a.diletti"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/giacomo.marcheschi"
+        },
+        {
+            "date": "2021-07-27",
+            "type": "MT2",
+            "victim": "https://www.facebook.com/leonardo.marceddu2"
+        },
+        {
+            "victim": "https://www.facebook.com/elisabetta.modica.7",
+            "date": "2021-07-27",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/emma.ugurgieri",
+            "date": "2021-07-27",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/ilaria.sarain",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/linda.mandriota",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/katia.perdicaro",
+            "date": "2021-07-28",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/giacomo.l.gatto",
+            "date": "2021-07-29",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/natan.bisson",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/marco.kiptiu",
+            "date": "2021-07-29",
+            "type": "MT2"
+        },
+        {
+            "victim": "https://www.facebook.com/annarita.annarita.10",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/agata.elmini",
+            "date": "2021-07-29",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/valeria.andrenacci.1",
+            "date": "2021-07-29",
+            "type": "FT4"
+        },
+        {
+            "victim": "https://www.facebook.com/alessio.moro.568",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/leonardo.iannuzzi.1694",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.grandi.1",
+            "date": "2021-07-29",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/tommaso.carbutti",
+            "date": "2021-07-29",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.sammartano",
+            "date": "2021-07-30",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/roberto.brunazzo",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/filippo.ridolfi.94",
+            "date": "2021-07-30",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100012580757316",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/gabriella.dealberti",
+            "date": "2021-07-30",
+            "type": "FF3"
+        },
+        {
+            "victim": "https://www.facebook.com/alice.neodo",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/gioia.less",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/profile.php?id=100047072885927",
+            "date": "2021-07-30",
+            "type": "FF4"
+        },
+        {
+            "victim": "https://www.facebook.com/cristian.testi",
+            "date": "2021-08-02",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.ambruosi.52",
+            "date": "2021-08-02",
+            "type": "MF2"
+        },
+        {
+            "victim": "https://www.facebook.com/fabrizio.rofi.779",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/massimo.catalfamo.7",
+            "date": "2021-08-02",
+            "type": "MT4"
+        },
+        {
+            "victim": "https://www.facebook.com/vincenzo.bua.16",
+            "date": "2021-08-02",
+            "type": "MF3"
+        },
+        {
+            "victim": "https://www.facebook.com/katia.pedrazzoli",
+            "date": "2021-08-02",
+            "type": "FT2"
+        },
+        {
+            "victim": "https://www.facebook.com/silvia.bisceglia.90",
+            "date": "2021-08-02",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/fabio.darpino.1",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/fabrizio.edeleonora",
+            "date": "2021-08-02",
+            "type": "MF4"
+        },
+        {
+            "victim": "https://www.facebook.com/giulio.lussy",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/fabrizio.leone.315",
+            "date": "2021-08-02",
+            "type": "MT3"
+        },
+        {
+            "victim": "https://www.facebook.com/anna.scarponi1",
+            "date": "2021-08-03",
+            "type": "FT3"
+        },
+        {
+            "victim": "https://www.facebook.com/sandro.palace",
+            "date": "2021-08-04",
+            "type": "MT4"
+        }
+    ]
+}

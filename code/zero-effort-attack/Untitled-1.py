@@ -1,0 +1,1 @@
+print("Model of acceptance for FT2 victim profiles");
